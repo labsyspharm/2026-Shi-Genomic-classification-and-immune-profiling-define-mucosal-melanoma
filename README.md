@@ -26,7 +26,7 @@ GENERAL INFORMATION
 ​
 1. **Genomic classification and immune profiling define mucosal melanoma**
 ​
-2. Yingxiao Shi*, Priyanka Sharma*, Jia-ren Lin, Aikaterini, Dedeilia, Tuulia Vallius, Giuseppe Tarantino, Roxanne Pelletier, Mariana L Lopez, Nil Aygün, Michael P Manos, Sonia Cohen, Aleigha R Lawless, Yi Daniel Lu, Madeline K Roelofs, Shishir M Pant, Jiajia Chen, David E Fisher, Rameen Beroukhim, Christine G Lian, Elizabeth I  Buchbinder, Peter K Sorger, Megan L. Insco**†, David Liu**†, Genevieve Boland**† 
+2. **Author list:** Yingxiao Shi*, Priyanka Sharma*, Jia-ren Lin, Aikaterini, Dedeilia, Tuulia Vallius, Giuseppe Tarantino, Roxanne Pelletier, Mariana L Lopez, Nil Aygün, Michael P Manos, Sonia Cohen, Aleigha R Lawless, Yi Daniel Lu, Madeline K Roelofs, Shishir M Pant, Jiajia Chen, David E Fisher, Rameen Beroukhim, Christine G Lian, Elizabeth I  Buchbinder, Peter K Sorger, Megan L. Insco**†, David Liu**†, Genevieve Boland**† 
 ​
 3. **Please cite this data as the following:**
    To be added later
