@@ -62,7 +62,7 @@ Each folder corresponds to a patient sample (N). <Edit as needed if this folder 
 ​
 ## AWS Data Access  
 ​
-Orion and HE imaging data as well as associated segmentation mask and single-cell feature table are available for download through AWS. 
+X, Y, Z data is available for download through AWS. 
 ​
 **You will need the following bucket name:**  
 ```
@@ -72,6 +72,10 @@ AWS BUCKET NAME
 *For general instructions on how to download data from AWS, see: [https://zenodo.org/records/10223574](https://zenodo.org/records/10223574)*     
   
 If you experience issues accessing the above AWS S3 buckets, email tissue-atlas(at)hms.harvard.edu with the subject line "bucketname: Data Access".  
+​
+## Synapse Library
+​
+X, Y, Z, data is available on Synapse at: [synapse.org/MY-PUBLIC-SYNAPSE-LIBRARY](https://www.synapse.org/MY-PUBLIC-SYNAPSE-LIBRARY)  
 ​
 ## Other Repository 
 <if applicable>  
@@ -86,7 +90,7 @@ If you experience issues accessing the above AWS S3 buckets, email tissue-atlas(
 |ID | ID.ome.tif | AWS     | N.N GB   |
 ​
 ​
-### N_HE.tif
+### N_HE.vsi
 ​
 |Patient or Biospecimen ID | File Name      | Location| File size|
 |--------| ---------------|---------|----------|
@@ -135,5 +139,4 @@ If you experience issues accessing the above AWS S3 buckets, email tissue-atlas(
 --------------------------
 ADDITIONAL NOTES/COMMENTS
 --------------------------
-​
 Please let **Yingxiao Shi (Yingxiao_Shi@g.harvard.edu)** know if any errors are found in this data.  
