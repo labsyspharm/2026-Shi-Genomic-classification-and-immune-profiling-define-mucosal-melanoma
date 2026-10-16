@@ -77,63 +77,59 @@ If you experience issues accessing the above AWS S3 buckets, email tissue-atlas(
 ​
 X, Y, Z, data is available on Synapse at: [synapse.org/MY-PUBLIC-SYNAPSE-LIBRARY](https://www.synapse.org/MY-PUBLIC-SYNAPSE-LIBRARY)  
 ​
-## Other Repository 
-<if applicable>  
-​
-## FILE LIST  
-<List all files (or folders, as appropriate for dataset organization) contained in each repository, with a brief description. If you are depositing certain file types into public, standardized repositories that already include a file index & metadata, you can link to that repository instead of listing all individual files. For all other data, (on AWS, etc) list all files. >  
-​
+## Other Repository
+<if applicable>
+
+## FILE LIST
+<List all files (or folders, as appropriate for dataset organization) contained in each repository, with a brief description. If you are depositing certain file types into public, standardized repositories that already include a file index & metadata, you can link to that repository instead of listing all individual files. For all other data, (on AWS, etc) list all files.>
+
 ### N.ome.tif
-​
-|Patient or Biospecimen ID | File Name       | Location| File size |
-|------- | ----------------|---------|-----------|
-|ID | ID.ome.tif | AWS     | N.N GB   |
-​
-​
+
+| Patient or Biospecimen ID | File Name  | Location | File size |
+|----------------------------|------------|----------|-----------|
+| ID                          | ID.ome.tif | AWS      | N.N GB    |
+
 ### N_HE.vsi
-​
-|Patient or Biospecimen ID | File Name      | Location| File size|
-|--------| ---------------|---------|----------|
-|ID | ID.ome.tif_HE.vsi | AWS     | N.N KB |
-​
-​
+
+| Patient or Biospecimen ID | File Name        | Location | File size |
+|----------------------------|-------------------|----------|-----------|
+| ID                          | ID.ome.tif_HE.vsi | AWS      | N.N KB    |
+
 ### \_N\_HE\_/
-​
-|Patient or Biospecimen ID | File Name   | Location| File size|
-|------- | ------------|---------|----------|
-|ID | frame_t.ets | AWS     | N.N MB |
-​
+
+| Patient or Biospecimen ID | File Name   | Location | File size |
+|----------------------------|-------------|----------|-----------|
+| ID                          | frame_t.ets | AWS      | N.N MB    |
+
 ### markers.csv
-​
-|Patient or Biospecimen ID | File Name   | Synapse ID  | File size|
-|------- | ----------- |------------ |----------|
-|ID | markers.csv | syn12345678 | N.N bytes|
-​
+
+| Patient or Biospecimen ID | File Name   | Synapse ID  | File size |
+|----------------------------|-------------|-------------|-----------|
+| ID                          | markers.csv | syn12345678 | N.N bytes |
+
 ### N.csv
-​
-|Patient or Biospecimen ID | File Name   | Synapse ID | File size |
-|------- | ------------|------------|-----------|
-|ID | ID.csv |  |  |
-​
+
+| Patient or Biospecimen ID | File Name | Synapse ID | File size |
+|----------------------------|-----------|------------|-----------|
+| ID                          | ID.csv    |            |           |
+
 ### N_ROI.csv
-​
-|Patient or Biospecimen ID | File Name       | Synapse ID  | File size|
-|------- | ----------------|-------------|----------|
-|ID | ID_ROI.csv |  |    |
-​
+
+| Patient or Biospecimen ID | File Name  | Synapse ID | File size |
+|----------------------------|------------|------------|-----------|
+| ID                          | ID_ROI.csv |            |           |
+
 ### raw/
-​
-|Patient or Biospecimen ID | Number of Files | Folder size| Location|
-|------- |-----------------|------------|---------|
-|ID | 13              |     |      |
-​
-​
+
+| Patient or Biospecimen ID | Number of Files | Folder size | Location |
+|----------------------------|------------------|-------------|----------|
+| ID                          | 13               |             |          |
+
 ### segmentation/
-​
-|Patient or Biospecimen ID | Number of Files | Folder size| Location|
-|------- |-----------------|------------|---------|
-|ID |               |     |      |
-​
+
+| Patient or Biospecimen ID | Number of Files | Folder size | Location |
+|----------------------------|------------------|-------------|----------|
+| ID                          |                  |             |          |
 ​
  
 --------------------------
